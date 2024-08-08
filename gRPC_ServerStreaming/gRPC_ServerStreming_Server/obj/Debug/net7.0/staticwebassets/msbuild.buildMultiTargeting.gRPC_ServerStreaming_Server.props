@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/gRPC_ServerStreaming_Server.props" />
+</Project>

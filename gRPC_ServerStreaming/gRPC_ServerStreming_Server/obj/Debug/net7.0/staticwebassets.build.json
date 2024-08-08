@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pnDq2kaMxMCBgN+IUAQgrhyPAhaFzNq7Ftgy/1G4qD8=",
+  "Source": "gRPC_ServerStreaming_Server",
+  "BasePath": "_content/gRPC_ServerStreaming_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
