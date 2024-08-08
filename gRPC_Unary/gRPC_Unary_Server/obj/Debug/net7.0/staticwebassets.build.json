@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n/l93yONOKPwrjopw00yQ0XkoSCvtaAjmVpVs2fhHGY=",
+  "Source": "gRPC_Unary_Server",
+  "BasePath": "_content/gRPC_Unary_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
